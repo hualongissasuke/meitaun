@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_default_size">18sp</dimen>
+    <dimen name="radius_default">5dp</dimen>
+    <dimen name="shadow_login_form_padding">10dp</dimen>
+    <dimen name="pm_size">20dp</dimen>
+</resources>

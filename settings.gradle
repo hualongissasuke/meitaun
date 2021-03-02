@@ -1,0 +1,2 @@
+include ':app', ':hualonglibrary'
+rootProject.name='meituan'
